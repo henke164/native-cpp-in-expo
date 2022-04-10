@@ -1,0 +1,6 @@
+module Pods_mazon {
+  umbrella header "Pods-mazon-umbrella.h"
+
+  export *
+  module * { export * }
+}
